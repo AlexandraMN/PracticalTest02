@@ -16,6 +16,7 @@ public class PracticalTest02MainActivity extends AppCompatActivity {
 
     private EditText currencyType = null;
     private EditText response = null;
+    private Button getRequestButton = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,5 +31,6 @@ public class PracticalTest02MainActivity extends AppCompatActivity {
 
         currencyType = findViewById(R.id.currency);
         response = findViewById(R.id.response);
+        getRequestButton = findViewById(R.id.request_button);
     }
 }

@@ -8,4 +8,5 @@
     <string name="client_port">Port</string>
     <string name="currency_type">EUR or USD</string>
     <string name="response">Server response</string>
+    <string name="request">GET CURRENCY</string>
 </resources>
